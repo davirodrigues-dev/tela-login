@@ -8,7 +8,7 @@ Projeto de interface de login (Front-end) desenvolvido com foco em estilização
 
 ## 🖼️ Visualização
 
-![imagem](/tela-login/images/image.png)
+![imagem Tela Login](/images/image.png)
 
 ## 📸 Preview
 
