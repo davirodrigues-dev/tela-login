@@ -11,12 +11,19 @@
     <div class="container">
         <div class="containerTop">
             <img id="logo-preta" src="/tela-login/images/logo-academy-preta.png" alt="logo academy preta">
-            <h4>Acesso ao EAD da Digital College</h4>
+            <h4>Acesso ao EAD da <strong>Digital College</strong></h4>
             <p>Preencha seus dados abaixo:  </p>
             <form class="formContainer">
-                <input type="text" id="cpf" placeholder="CPF" name="cpf" required>
-                <input type="password" id="senha" placeholder="Senha" name="senha" required>
-                <button type="submit">Acessar</button>
+                <input type="text" id="cpf" placeholder="CPF" name="username" required maxlength="14">
+                <input type="password" id="senha" placeholder="Senha" name="password" required maxlength="30">
+            <div class="containerSelect">
+                <label for="rememberUsername" style="user-select: none;">
+                    <input type="checkbox" name="rememberusername" id="rememberUsername" value="1">
+                    <span class="customCheckbox"></span> Lembrar meu acesso 
+                </label>
+                <a href="https://academy.digitalcollege.com.br/login/esqueci_minha_senha.php" class="containerSelectPassword">Esqueceu a senha?</a>
+            </div>
+            <button type="submit">Acessar</button>
             </form>
         </div>
         <div class="containerVideo">
@@ -25,8 +32,6 @@
             </video>
             <img src="/tela-login/images/logo-academy-branca.png" alt="logo academy branco">
         </div>
-
     </div>
-
 </body>
 </html>
