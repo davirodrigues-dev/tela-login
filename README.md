@@ -18,7 +18,7 @@ O layout apresenta uma estrutura *Split-Screen* (Tela Dividida):
 
 ## 🌐 Site para visualização
 
-![Acesse o projeto](https://davirodrigues-dev.github.io/tela-login/)
+[Acesse o projeto](https://davirodrigues-dev.github.io/tela-login/)
 
 ## 🚀 Funcionalidades
 
