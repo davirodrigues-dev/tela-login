@@ -16,6 +16,10 @@ O layout apresenta uma estrutura *Split-Screen* (Tela Dividida):
 1.  **Esquerda:** Formulário de autenticação limpo.
 2.  **Direita:** Vídeo de background em loop com sobreposição de marca.
 
+## 🌐 Site para visualização
+
+![Acesse o projeto](https://davirodrigues-dev.github.io/tela-login/)
+
 ## 🚀 Funcionalidades
 
 - [x] **Estrutura Semântica:** HTML5 organizado e acessível.
