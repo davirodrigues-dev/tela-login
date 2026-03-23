@@ -22,20 +22,6 @@ body {
     font-weight: 600;
 }
 
-p {
-    display: block;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    unicode-bidi: isolate;
-}
-
-div {
-    display: block;
-    unicode-bidi: isolate;
-}
-
 .container {
     background: rgba(255, 255, 255, 0.8);
     border-radius: 20px;
@@ -77,16 +63,6 @@ div {
 .containerTop form input[type="text"], 
 .containerTop form input[type="password"] {
     height: 46px;
-}
-
-h4 {
-    display: block;
-    margin-block-start: 1.33em;
-    margin-block-end: 1.33em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    font-weight: bold;
-    unicode-bidi: isolate;
 }
 
 .containerVideo video{
