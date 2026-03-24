@@ -60,6 +60,12 @@ body {
     box-sizing: border-box;
 }
 
+.containerTop form input:focus,
+.containerTop form button:focus {
+    outline: none;
+    border: 2px solid #BF0067;
+}
+
 .containerTop form input[type="text"], 
 .containerTop form input[type="password"] {
     height: 46px;
